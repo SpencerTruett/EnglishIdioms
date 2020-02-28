@@ -1,0 +1,11 @@
+C:\Users\gilde\workspace\csharp\exercises\EnglishIdioms\bin\Debug\netcoreapp3.1\EnglishIdioms.exe
+C:\Users\gilde\workspace\csharp\exercises\EnglishIdioms\bin\Debug\netcoreapp3.1\EnglishIdioms.deps.json
+C:\Users\gilde\workspace\csharp\exercises\EnglishIdioms\bin\Debug\netcoreapp3.1\EnglishIdioms.runtimeconfig.json
+C:\Users\gilde\workspace\csharp\exercises\EnglishIdioms\bin\Debug\netcoreapp3.1\EnglishIdioms.runtimeconfig.dev.json
+C:\Users\gilde\workspace\csharp\exercises\EnglishIdioms\bin\Debug\netcoreapp3.1\EnglishIdioms.dll
+C:\Users\gilde\workspace\csharp\exercises\EnglishIdioms\bin\Debug\netcoreapp3.1\EnglishIdioms.pdb
+C:\Users\gilde\workspace\csharp\exercises\EnglishIdioms\obj\Debug\netcoreapp3.1\EnglishIdioms.csprojAssemblyReference.cache
+C:\Users\gilde\workspace\csharp\exercises\EnglishIdioms\obj\Debug\netcoreapp3.1\EnglishIdioms.AssemblyInfoInputs.cache
+C:\Users\gilde\workspace\csharp\exercises\EnglishIdioms\obj\Debug\netcoreapp3.1\EnglishIdioms.AssemblyInfo.cs
+C:\Users\gilde\workspace\csharp\exercises\EnglishIdioms\obj\Debug\netcoreapp3.1\EnglishIdioms.dll
+C:\Users\gilde\workspace\csharp\exercises\EnglishIdioms\obj\Debug\netcoreapp3.1\EnglishIdioms.pdb
